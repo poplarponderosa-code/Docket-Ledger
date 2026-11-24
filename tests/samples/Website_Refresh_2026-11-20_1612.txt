@@ -1,0 +1,13 @@
+# Docket time log
+Checklist: Website Refresh
+Description: Update the landing page copy and images.
+Started: 2026-11-20 13:05:10
+Finished: 2026-11-20 16:12:44
+Total time: 3:07:34
+
+Step | Start | End | Duration | Limit
+Review current page | 2026-11-20 13:05:10 | 2026-11-20 13:32:40 | 27:30 | -
+Draft new copy | 2026-11-20 13:32:40 | 2026-11-20 14:51:02 | 1:18:22 | -
+Swap images | 2026-11-20 14:51:02 | 2026-11-20 15:40:15 | 49:13 | -
+Proofread and publish | 2026-11-20 15:40:15 | 2026-11-20 16:12:44 | 32:29 | -
+Total | | | 3:07:34 | -

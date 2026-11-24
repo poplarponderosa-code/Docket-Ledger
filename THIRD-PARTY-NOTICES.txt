@@ -1,0 +1,35 @@
+Docket Ledger - third-party notices
+===================================
+
+Docket Ledger is made with these open-source components. Thank you to their authors.
+
+Qt for Python (PySide6) and the Qt libraries
+  Copyright (C) The Qt Company Ltd. and other contributors.
+  Used under the GNU Lesser General Public License, version 3 (LGPLv3).
+  Docket Ledger uses the Qt libraries unchanged, as separate files in its install folder,
+  so they can be replaced with other compatible builds.
+  Licence text: https://www.gnu.org/licenses/lgpl-3.0.html
+  Source code:  https://code.qt.io  and  https://download.qt.io/official_releases/QtForPython/
+
+ReportLab (makes the PDFs)
+  Copyright (C) ReportLab Europe Ltd. BSD licence: https://www.reportlab.com/opensource/
+
+pypdfium2 and PDFium (draw the preview)
+  pypdfium2: Apache-2.0 or BSD-3-Clause. https://github.com/pypdfium2-team/pypdfium2
+  PDFium: Copyright The PDFium Authors. BSD-3-Clause and Apache-2.0. https://pdfium.googlesource.com/pdfium/
+
+Pillow (reads logos and watermarks)
+  Copyright (C) Jeffrey A. Clark and contributors; Fredrik Lundh and Secret Labs AB.
+  MIT-CMU licence: https://github.com/python-pillow/Pillow/blob/main/LICENSE
+
+Python
+  Copyright (C) Python Software Foundation.
+  Python Software Foundation License: https://docs.python.org/3/license.html
+
+PyInstaller (bootloader used to start DocketLedger.exe)
+  Copyright (C) PyInstaller Development Team.
+  GPL 2.0 with an exception that allows distributing applications built with it.
+  https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt
+
+Inno Setup (used to build the installer)
+  Copyright (C) Jordan Russell and Martijn Laan. https://jrsoftware.org/files/is/license.txt
